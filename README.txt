@@ -1,0 +1,1 @@
+This is a installer which handles installation of the Quickbooks merge module. It is used by the nullsoft installer for both the Eaglesoft->Quickbooks Deposit utilty as well as the Eaglesoft Timesheet -> Quickbooks Utility
